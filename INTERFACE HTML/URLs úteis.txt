@@ -1,0 +1,36 @@
+
+
+Métodos de requisição HTTP:
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods
+
+Como centralizar divs em HTML e CSS:
+https://www.devmedia.com.br/como-centralizar-divs-em-html-e-css/37568
+
+CSS Buttons:
+https://www.w3schools.com/css/css3_buttons.asp
+
+Hoverable Buttons:
+https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_hover
+
+CSS font-weight Property:
+https://www.w3schools.com/cssref/pr_font_weight.asp
+
+font-family:
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family
+
+Fixed/Sticky Footer Example:
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_footer
+
+HTML <footer> Tag:
+https://www.w3schools.com/tags/tag_footer.asp
+
+HTML <img> Tag:
+https://www.w3schools.com/tags/tag_img.asp
+
+Insert images from different locations:
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_diffloc
+
+HTML Element Reference:
+https://www.w3schools.com/tags/default.asp
+
+6C7A89

@@ -1,0 +1,13 @@
+
+
+#Tutorial
+https://www.filipeflop.com/blog/esp-32-camera-ip/
+
+#Câmera
+https://www.filipeflop.com/produto/modulo-esp32-cam-com-camera-ov2640-2mp/
+
+#Problema/solução com biblioteca
+https://forum.arduino.cc/index.php?topic=637231.0
+
+Regulador de Tensão 7805 - O que é e Como Utilizar - Eletrônica Fácil:
+https://www.youtube.com/watch?v=JDenESfGj94
